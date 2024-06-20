@@ -4,7 +4,7 @@
 
 ## Introduction
 
-**ChatGPT Clone**is an Android application designed to provide users with an interactive chatbot experience. This application leverages modern Android development practices and integrates seamlessly with API services to deliver dynamic and responsive conversations. The app is structured using the MVVM architecture to maintain a clear separation of concerns and ensure the app is scalable and easy to maintain.
+**ChatGPT Clone** is an Android application designed to provide users with an interactive chatbot experience. This application leverages modern Android development practices and integrates seamlessly with API services to deliver dynamic and responsive conversations. The app is structured using the MVVM architecture to maintain a clear separation of concerns and ensure the app is scalable and easy to maintain.
 <p align="center">
   <img src="https://firebasestorage.googleapis.com/v0/b/food-app-9e90b.appspot.com/o/Chatgpt%2Fchat_blank.png?alt=media&token=90cf5866-c8ff-4e77-bc4f-918206028ea8" alt="Chat Screen" width="200" style="margin-right: 10px;" />
   <img src="https://firebasestorage.googleapis.com/v0/b/food-app-9e90b.appspot.com/o/Chatgpt%2Fchat_typoing.png?alt=media&token=a6f26efe-d460-46ab-bb12-2b3fab8512f5" alt="Chat Send" width="200" style="margin-right: 10px;" />
