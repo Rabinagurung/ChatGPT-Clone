@@ -50,6 +50,7 @@ class MainActivity : AppCompatActivity() {
             adapter.data.addAll(it)
             adapter.notifyItemInserted(data.size-1)
             binding.rv.scrollToPosition(data.size-1)
+            binding.editTextText.setText("")
 
 //            Log.d("tag", it.toString())
 

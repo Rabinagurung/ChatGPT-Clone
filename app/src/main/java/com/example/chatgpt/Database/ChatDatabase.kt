@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 //We are creating singleton
 
 object ChatDatabase {
-    private const val BASE_URL = BuildConfig.BASE_URL
+    private const val baseURL = BuildConfig.BASE_URL
     //returns same data type of interface
     fun getChatAPI(): ChatAPI{
 
@@ -18,7 +18,7 @@ object ChatDatabase {
 
 
         //Starting to build retrofit we need baseUrl and convertor factory to convert JSon to gson and pass the Interface on create
-        val actualClass =  Retrofit.Builder().baseUrl(BASE_URL).
+        val actualClass =  Retrofit.Builder().baseUrl(baseURL).
         addConverterFactory(GsonConverterFactory.create()).build().create(ChatAPI::class.java)
 
         return  actualClass
