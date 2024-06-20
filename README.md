@@ -2,7 +2,7 @@
 
 **ChatGPT Clone** An advanced Android application that simulates a conversational AI experience similar to OpenAI's ChatGPT. Built with Kotlin and utilizing the MVVM (Model-View-ViewModel) architecture to ensure a clean and scalable codebase.
 
-**Introduction**
+## Introduction
 
 **ChatGPT Clone**is an Android application designed to provide users with an interactive chatbot experience. This application leverages modern Android development practices and integrates seamlessly with API services to deliver dynamic and responsive conversations. The app is structured using the MVVM architecture to maintain a clear separation of concerns and ensure the app is scalable and easy to maintain.
 <p align="center">
